@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Gautam</h1>
-<h3 align="center">Data Scientist and Open Source Contributor with a strong algorithmic foundation (400+ DSA problems). Proven track record of building high-impact predictive models and interactive Streamlit applications to drive data driven business insights. Passionate about community-driven software, with active contributions to industry standard libraries like NumPy and Pandas, and a portfolio of 40+ public projects showcasing end-to-end analytical solutions.</h3>
+<h3 align="center">Building Data Science, GenAI and MCP Servers and Clients. .</h3>
 
 - 🔭 I’m currently working on **Data Science and GenAI**
 
